@@ -8,7 +8,7 @@ Nombre de Grupo: Stark Industries
       Santiago Lopez
       
 Sistemas de Procesamiento de Datos
-Grupo: Universe 7
+Grupo: Stark Industries
 Integrantes:
 Julieta Lizzio
       Ezequiel Moran
